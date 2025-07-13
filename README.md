@@ -28,3 +28,14 @@ Built completely from my phone using Python + Replit. 🙌
 ---
 
 ### Made with ❤️ by [@khalifbash0](https://twitter.com/khalifbash0)
+---
+
+## 💸 Want Your Own Crypto Bot?
+
+Pay $5 in USDT (TRC20) and I’ll build a custom alert bot for your favorite coin 🔔
+
+🪙 Wallet address: `TH8LVroTXaVgYHYMyhvnR8gHpxtCUMn6id`
+
+Then DM me on [Twitter](https://twitter.com/khalifbash0) with your coin + price target.
+
+Built with ❤️ by a single dev dad on his phone 📱
