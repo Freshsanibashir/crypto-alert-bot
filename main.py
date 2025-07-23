@@ -2,8 +2,8 @@ import requests
 import time
 
 # ==== CONFIG ====
-BOT_TOKEN = "7997727813:AAHY9a_9t94D5wu0GBBABIP8TlJlsM4xJ5A"
-CHAT_ID = "8140464978"
+BOT_TOKEN = "YOUR_TOKEN_HERE"
+CHAT_ID = "ID_HERE"
 TARGET_PRICE = 97  # Change this to the price you want alert for
 COIN_ID = "litecoin"  # Options: bitcoin, ethereum, litecoin, etc.
 CURRENCY = "usd"
